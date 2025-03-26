@@ -19,6 +19,8 @@
     background-color: rgba(21, 23, 23, 0.5);
     color: white;
     padding: 20px;
+    width: 80%; 
+    margin: 0 auto;
 }
 
 
@@ -35,6 +37,8 @@
     display: flex;
     justify-content: center;
     gap: 20px;
+    width: 80%;
+    margin-left: 152px;
 }
 .navbar a {
     color: white;
